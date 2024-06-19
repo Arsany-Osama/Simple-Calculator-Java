@@ -3,12 +3,12 @@
 
 <!-- PROJECT SHIELDS -->
 <!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors](https://img.shields.io/github/contributors/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/stargazers)
+[![Issues](https://img.shields.io/github/issues/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/issues)
+[![MIT License](https://img.shields.io/github/license/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/blob/master/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/arsany-osama)
 
 
 
