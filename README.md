@@ -3,12 +3,12 @@
 
 <!-- PROJECT SHIELDS -->
 <!--
-![Contributors](https://img.shields.io/github/contributors/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
-![MIT License](https://img.shields.io/github/license/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
