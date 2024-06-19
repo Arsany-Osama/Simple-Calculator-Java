@@ -23,11 +23,7 @@
     <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master">View Demo</a>
-    ·
-    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master">View Demo</a
   </p>
 </div>
 
@@ -86,13 +82,6 @@ This is a simple Java-based calculator that supports basic arithmetic operations
 * [Java](https://www.oracle.com/java/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
