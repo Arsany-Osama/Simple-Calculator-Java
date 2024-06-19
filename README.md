@@ -26,14 +26,14 @@
   <p align="center">
     A basic calculator application that performs arithmetic operations including addition, subtraction, multiplication, division, modulus, and factorial.
     <br />
-    <a href="https://github.com/your_username/Simple-Java-Calculator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username/Simple-Java-Calculator">View Demo</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator">View Demo</a>
     ·
-    <a href="https://github.com/your_username/Simple-Java-Calculator/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/your_username/Simple-Java-Calculator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
