@@ -3,11 +3,11 @@
 
 <!-- PROJECT SHIELDS -->
 <!--
-![Contributors](https://img.shields.io/github/contributors/Arsany-Osama/Simple-Java-Calculator.svg?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Arsany-Osama/Simple-Java-Calculator.svg?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/Arsany-Osama/Simple-Java-Calculator.svg?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Arsany-Osama/Simple-Java-Calculator.svg?style=for-the-badge)
-![MIT License](https://img.shields.io/github/license/Arsany-Osama/Simple-Java-Calculator.svg?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
+![Stargazers](https://img.shields.io/github/stars/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
+![MIT License](https://img.shields.io/github/license/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)
 
 
@@ -23,11 +23,11 @@
     <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator">View Demo</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master">View Demo</a>
     ·
-    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
