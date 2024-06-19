@@ -62,9 +62,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Screenshot (196)](https://github.com/Arsany-Osama/Simple-Calculator-Java-/assets/160052013/9230275c-45af-40a7-96b7-27d3ee05e001)
 
 This is a simple Java-based calculator that supports basic arithmetic operations like addition, subtraction, multiplication, division, modulus, and factorial calculation.
 
