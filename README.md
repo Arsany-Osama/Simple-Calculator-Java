@@ -20,10 +20,7 @@
   <p align="center">
     A basic calculator application that performs arithmetic operations including addition, subtraction, multiplication, division, modulus, and factorial.
     <br />
-    <a href="https://github.com/Arsany-Osama/Simple-Java-Calculator"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master">View Demo</a
+    <a href="https://github.com/Arsany-Osama/Simple-Calculator-Java-/tree/master"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
