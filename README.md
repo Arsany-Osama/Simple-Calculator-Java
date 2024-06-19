@@ -93,4 +93,5 @@ Ensure you have the following software installed:
 [stars-url]: https://github.com/Arsany-Osama/Simple-Calculator-java-/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Arsany-Osama/Simple-Calculator-Java-.svg?style=for-the-badge
 [issues-url]: https://github.com/Arsany-Osama/Simple-Calculator-java-/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arsany-osama-446942264
