@@ -7,6 +7,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/Arsany-Osama//Simple-Calculator-Java/master/LICENSE.txt
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
